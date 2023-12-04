@@ -1,0 +1,9 @@
+# python env
+/myenv
+/lib
+/include
+/bin
+pyvenv.cfg
+
+# csv
+*.csv
